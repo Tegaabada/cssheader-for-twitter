@@ -1,0 +1,30 @@
+/* HEILABADA */
+
+h1 {
+position: absolute;
+width: 731px;
+height: 120px;
+left: 385px;
+top: 130px;
+
+font-family: 'Red Rose', cursive;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 120px;
+text-align: center;
+/* identical to box height */
+
+letter-spacing: 0.2em;
+
+ background:linear-gradient(270deg,  #FFA62B  52.8%, #14274E 47.2%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+.container {
+  position: relative;
+width: 1500px;
+height: 500px;
+  background: linear-gradient(270deg, #14274E 51.32%, #FFA62B 51.33%), #FFA62B;
+}
